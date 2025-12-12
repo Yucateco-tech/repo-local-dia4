@@ -6,8 +6,4 @@
 
 hola como estan el dia de hoy people
 
-1.- listas numeradas 
-`codigo en liena`
-```bash
-# bloque de codigo
-ls -la 
+1.- listas numeradas
